@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MarciaCampos-heartcloud
-- 👀 I’m interested in technology innovations / Azure / Infrastructure
-- 🌱 I’m currently learning to mastering my knowleged and to be open to the newest  
+- 👋 Hi, I’m Marcia Campos
+- 👀 I’m interested in technology innovations / Microsoft / Azure / Infrastructure
+- 🌱 I’m currently learning to mastering my knowleged and always be open to unexpected surprises 
 - 💞️ I’m looking to collaborate on projects inspired by Hearts
-- 📫 How to reach me <marcia4mcampos@gmail.com> <marcia71campos@hotmail.com>
+- 📫 How to reach me https://www.linkedin.com/in/marcia-campos-cloud-computing-azure-devops-architect/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I allow myself to be guided by the my Heart's infinit wisdom 
+- ⚡ Fun fact: I like sports, meditation and Samba music+percussion  
 
 <!---
 MarciaCampos-heartcloud/MarciaCampos-heartcloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
